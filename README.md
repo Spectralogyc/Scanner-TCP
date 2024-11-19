@@ -1,1 +1,5 @@
-# TCP-Port-Scanner
+# TCP Port Scanner
+
+## instructions
+
+pip install socket
